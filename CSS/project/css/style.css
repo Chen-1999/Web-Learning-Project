@@ -1,0 +1,51 @@
+/* 设置字体大小和类型 */
+body {
+    font: 16px/28px '微软雅黑'
+}
+
+/* 让标题不加粗 */
+h1 {
+    font-weight: normal;
+    text-align: center;
+}
+
+/* 设置新闻头部的样式 */
+.news-header {
+    color: gray;
+    text-align: center;
+    font-size: 12px;
+}
+
+/* 去除所有a标签的下划线 */
+a {
+    text-decoration: none;
+}
+
+/* 设置搜索框的样式 */
+.search {
+    color: gray;
+    width: 170px;
+}
+
+
+/* 设置搜索按钮的样式 */
+.btn {
+    font-weight: 700;
+}
+
+/* 设置所有p标签设置缩进两个字 */
+p {
+    text-indent: 2em;
+}
+
+/* 设置图片的样式 */
+.pic {
+    text-align: center;
+}
+
+/* 设置底部样式 */
+.footer {
+    color:gray;
+    text-align: center;
+    font-size: 12px;
+}
